@@ -55,3 +55,46 @@ h3 {
   height: 100%;
  
 }
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="stylesheet.css" type="text/css" rel="stylesheet" />
+	</head>
+<body>
+    <fieldset style="border: ;">
+
+	<h1>Apply for Internship opportunities at ABC pvt Ltd</h1>
+	<p>
+	If you are interested in the above,Please forward your CV to Mr.Aruna -<br>
+		Asst.Manager HR & Admin hr@abc.lk
+	
+	</p>
+	
+	<h4>
+	For future information call on: <br>
+	0115446000
+    </h4>
+    </fieldset>
+</body>
+</html>
+ CSS
+ 
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+p{
+text-align: justify;
+font-family: garamond;
+
+}
+h4{
+    color: blue;
+    font-family: Arial;
+}
+
