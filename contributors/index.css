@@ -1,0 +1,57 @@
+body {
+  /* background-color: #303030; */
+  padding: 0px;
+  margin: 0px;
+  /* color: #e8e8e8; */
+}
+.bg {
+  /* The image used */
+  background-image: url("src/banner08BLlogo.png");
+
+  /* Full height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h3 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+h3 {
+  margin-bottom: 25px;
+}
+.template {
+  display: none;
+}
+
+#author {
+  padding: 2%;
+  min-height: 55vh;
+  max-height: 55vh;
+}
+#wrap {
+  min-height: 55vh;
+}
+
+/* zoom on hover*/
+.zoom {
+  transition: transform 0.2s;
+}
+
+.zoom:hover {
+  transform: scale(1.1);
+}
+#tsparticles {
+  height: 100%;
+ 
+}
