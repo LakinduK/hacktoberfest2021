@@ -2,7 +2,9 @@ var users = [];
 var i = 0;
 
 var getData = (function ($) {
-  var URL = "https://api.github.com/repos/LakinduK/hacktoberfest2021";
+  
+  var URL = 'https://api.github.com/repos/LakinduK/hacktoberfest2021/contributors'
+
 
   $.get(URL, function (data, status) {
     data.forEach(function (d) {
