@@ -20,7 +20,7 @@ var getData = (function ($) {
           "'>" +
           "<img src='" +
           d.avatar_url +
-          "' alt='' class='img-responsive' style='border-radius: 20%; border-width: 0;'>" +
+          "' alt='' class='img-fluid' style='border-radius: 20%; border-width: 0;'>" +
           "</a>" +
           "<div class='caption'>" +
           "<strong>" +
