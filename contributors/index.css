@@ -55,8 +55,8 @@ h3 {
 }
 @media only screen and (max-width:756px){
    .img-responsive{ 
-     width:50%;
-     height: 50%;
+     width:90%;
+     height: 90%;
      margin-top:2rem;
     }
   }
