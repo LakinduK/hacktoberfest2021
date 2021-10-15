@@ -60,3 +60,7 @@ h3 {
      margin-top:2rem;
     }
   }
+
+#darkSwitch{
+    display: none;
+  }
