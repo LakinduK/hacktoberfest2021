@@ -65,3 +65,19 @@ h3 {
 #darkSwitch{
     display: none;
   }
+
+  
+  @media(max-width:750px){
+    .img-fluid{
+      width: 100%;
+    }
+    
+    #author{
+      width:50% !important; 
+    }
+    
+    #wrap{
+      padding-top: 40px;
+    }
+    
+      }
