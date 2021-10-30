@@ -1,0 +1,15 @@
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
+ol.d {
+  list-style-type: lower-alpha;
+}
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}

@@ -65,6 +65,37 @@ h3 {
 #darkSwitch{
     display: none;
   }
+
 #heart:hover{
   color:red;
 }
+
+
+
+  @media(max-width:750px){
+    .img-fluid{
+      width: 100%;
+    }
+    
+    #author{
+      width:50% !important; 
+    }
+    
+    #wrap{
+      padding-top: 40px;
+    }
+    
+      }
+
+.buttond {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
