@@ -66,6 +66,11 @@ h3 {
     display: none;
   }
 
+#heart:hover{
+  color:red;
+}
+
+
 
   @media(max-width:750px){
     .img-fluid{
@@ -92,4 +97,5 @@ h3 {
   display: inline-block;
   font-size: 16px;
 }
+
 
