@@ -65,6 +65,23 @@ h3 {
 #darkSwitch{
     display: none;
   }
+
+
+  @media(max-width:750px){
+    .img-fluid{
+      width: 100%;
+    }
+    
+    #author{
+      width:50% !important; 
+    }
+    
+    #wrap{
+      padding-top: 40px;
+    }
+    
+      }
+
 .buttond {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -75,3 +92,4 @@ h3 {
   display: inline-block;
   font-size: 16px;
 }
+
