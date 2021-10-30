@@ -4,3 +4,6 @@
 ol.d {
   list-style-type: lower-alpha;
 }
+ul {
+  list-style-image: url('sqpurple.gif');
+}
