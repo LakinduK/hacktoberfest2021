@@ -7,3 +7,9 @@ ol.d {
 ul {
   list-style-image: url('sqpurple.gif');
 }
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
