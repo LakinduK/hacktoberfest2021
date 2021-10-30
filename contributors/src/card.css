@@ -1,3 +1,6 @@
 #grad {
   background-image: linear-gradient(red, yellow);
 }
+ol.d {
+  list-style-type: lower-alpha;
+}
